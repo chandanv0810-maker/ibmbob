@@ -1,0 +1,39 @@
+{
+  "columns": [
+    "search_category",
+    "media_type",
+    "id",
+    "title",
+    "original_language",
+    "genres",
+    "release_date",
+    "popularity",
+    "vote_average",
+    "vote_count",
+    "origin_country",
+    "overview",
+    "release_year",
+    "is_recent"
+  ],
+  "languages": {
+    "de": 14,
+    "en": 578,
+    "es": 27,
+    "fr": 17,
+    "hi": 9,
+    "it": 14,
+    "ja": 153,
+    "ko": 59,
+    "pt": 12,
+    "zh": 41
+  },
+  "media_types": {
+    "movie": 466,
+    "tv": 522
+  },
+  "rows": 988,
+  "year_range": [
+    1921,
+    2027
+  ]
+}

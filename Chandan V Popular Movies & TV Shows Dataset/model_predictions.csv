@@ -1,0 +1,989 @@
+id,title,media_type,vote_average,predicted_rating,prediction_error
+969681,Spider-Man: Brand New Day,movie,7.9,7.848,-0.052
+1368337,The Odyssey,movie,7.999,7.889,-0.11
+1288445,Mutiny,movie,6.6,6.619,0.019
+1084244,Toy Story 5,movie,8.184,7.779,-0.405
+1323244,Rage of Stars,movie,4.636,5.745,1.109
+634649,Spider-Man: No Way Home,movie,7.941,8.018,0.077
+1375646,Colony,movie,8.115,7.597,-0.518
+1339713,Obsession,movie,8.22,8.178,-0.042
+1315772,Minions & Monsters,movie,7.519,7.574,0.055
+1108427,Moana,movie,6.113,6.559,0.446
+1284465,The Death of Robin Hood,movie,6.288,6.565,0.277
+1284041,The Last House,movie,6.894,7.224,0.33
+82023,Hotel Desire,movie,6.174,6.295,0.121
+1275779,Disclosure Day,movie,7.465,7.491,0.026
+1101383,The End of Oak Street,movie,6.386,6.233,-0.153
+1212763,Evil Dead Burn,movie,7.838,7.19,-0.648
+1083381,Backrooms,movie,7.096,7.353,0.257
+687163,Project Hail Mary,movie,8.647,8.177,-0.47
+1081003,Supergirl,movie,6.727,7.05,0.323
+1273221,Scary Movie,movie,6.444,6.843,0.399
+1523145,Your Heart Will Be Broken,movie,7.1,7.037,-0.063
+1003596,Avengers: Doomsday,movie,0.0,0.0,0.0
+454639,Masters of the Universe,movie,7.166,6.97,-0.196
+1307118,Soulm8te,movie,7.286,6.474,-0.812
+755898,War of the Worlds,movie,4.045,6.106,2.061
+1538273,Pyaar Prema Kalyanam,movie,7.0,5.217,-1.783
+980431,Avatar Aang: The Last Airbender,movie,9.201,7.979,-1.222
+1612018,Jackass: Best and Last,movie,7.554,6.978,-0.576
+1285366,Shape of My Heart,movie,6.2,5.432,-0.768
+315635,Spider-Man: Homecoming,movie,7.333,8.155,0.822
+299536,Avengers: Infinity War,movie,8.2,8.202,0.002
+278,The Shawshank Redemption,movie,8.728,8.564,-0.164
+83533,Avatar: Fire and Ash,movie,7.646,7.848,0.202
+441168,From Straight A's to XXX,movie,5.912,6.181,0.269
+1594914,Lucky Strike,movie,7.25,6.702,-0.548
+1698863,The Odyssey,movie,4.014,5.822,1.808
+1291595,Insidious: Out of the Further,movie,6.7,6.596,-0.104
+391312,Mourning Wife,movie,4.5,4.806,0.306
+1311031,Demon Slayer: Kimetsu no Yaiba Infinity Castle,movie,8.755,7.985,-0.77
+557,Spider-Man,movie,7.348,8.293,0.945
+1130948,Rosebush Pruning,movie,6.471,6.089,-0.382
+1481343,The Devil's Mouth,movie,6.574,7.175,0.601
+89657,Country Hooker,movie,3.857,4.852,0.995
+1314826,Yellow Eyes,movie,4.3,5.046,0.746
+1564614,Leviticus,movie,6.7,6.984,0.284
+1599191,Renegade Immortal: Battle of the Immortal Slayer,movie,0.0,0.0,0.0
+1314481,The Devil Wears Prada 2,movie,7.068,7.513,0.445
+24428,The Avengers,movie,8.068,8.174,0.106
+936075,Michael,movie,8.671,8.255,-0.416
+1280738,The Furious,movie,8.147,7.734,-0.413
+950028,The Invite,movie,7.341,7.032,-0.309
+1727780,Borderline,movie,5.7,5.862,0.162
+157336,Interstellar,movie,8.485,8.248,-0.237
+1127384,Deep Water,movie,7.1,6.954,-0.146
+1930,The Amazing Spider-Man,movie,6.756,7.466,0.71
+1439930,The Punisher: One Last Kill,movie,8.276,7.741,-0.535
+1084242,Zootopia 2,movie,7.679,7.4,-0.279
+569094,Spider-Man: Across the Spider-Verse,movie,8.346,8.143,-0.203
+964849,Nightborn,movie,6.129,6.444,0.315
+5721,Vixen!,movie,5.518,6.554,1.036
+1228710,The Mandalorian and Grogu,movie,7.506,7.608,0.102
+238,The Godfather,movie,8.686,8.458,-0.228
+1226863,The Super Mario Galaxy Movie,movie,8.248,8.048,-0.2
+299534,Avengers: Endgame,movie,8.24,8.13,-0.11
+1290821,Shelter,movie,7.784,7.741,-0.043
+1408162,Vishwanath & Sons,movie,8.4,5.451,-2.949
+1110034,Kraken,movie,6.288,7.242,0.954
+155,The Dark Knight,movie,8.534,8.121,-0.413
+194117,Woman in the Moon,movie,5.6,5.232,-0.368
+1668364,Desire,movie,6.778,7.148,0.37
+533535,Deadpool & Wolverine,movie,7.585,8.002,0.417
+27205,Inception,movie,8.372,8.117,-0.255
+1493400,Camp Rock 3,movie,6.494,6.345,-0.149
+1630409,The Debt Collector,movie,7.873,7.157,-0.716
+324857,Spider-Man: Into the Spider-Verse,movie,8.397,7.983,-0.414
+931285,Mortal Kombat II,movie,7.86,7.876,0.016
+1419406,The Shadow's Edge,movie,8.131,7.371,-0.76
+429617,Spider-Man: Far From Home,movie,7.393,7.645,0.252
+559,Spider-Man 3,movie,6.477,7.358,0.881
+1417285,The Stain,movie,4.0,4.481,0.481
+822119,Captain America: Brave New World,movie,5.948,6.972,1.024
+1327819,Hoppers,movie,8.168,7.921,-0.247
+1491920,Kung Fu Soccer,movie,6.4,6.201,-0.199
+1569947,The Priest: Thanksgiving Massacre,movie,3.5,4.865,1.365
+1125257,Freakier Friday,movie,6.8,6.946,0.146
+99861,Avengers: Age of Ultron,movie,7.276,7.532,0.256
+1599993,Animals,movie,6.154,6.384,0.23
+1242898,Predator: Badlands,movie,7.826,7.475,-0.351
+1728704,Siping,movie,4.3,4.564,0.264
+1516698,The Last Sunrise,movie,0.0,0.0,0.0
+1698856,Master of the Universe,movie,5.032,5.786,0.754
+1007757,Swapped,movie,8.879,8.097,-0.782
+1184918,The Wild Robot,movie,8.306,7.908,-0.398
+1193950,The Dollmaker,movie,2.0,4.196,2.196
+1510795,"Shake, Rattle & Roll: Evil Origins",movie,5.737,5.124,-0.613
+76341,Mad Max: Fury Road,movie,7.6,7.567,-0.033
+1504358,Don't Say Good Luck,movie,7.2,5.94,-1.26
+102382,The Amazing Spider-Man 2,movie,6.557,6.95,0.393
+1301421,The Sheep Detectives,movie,7.943,7.843,-0.1
+617126,The Fantastic 4: First Steps,movie,6.9,7.051,0.151
+1726,Iron Man,movie,7.7,7.719,0.019
+872585,Oppenheimer,movie,8.023,7.908,-0.115
+603,The Matrix,movie,8.255,8.236,-0.019
+271110,Captain America: Civil War,movie,7.452,7.596,0.144
+1232569,Pinocchio: Unstrung,movie,7.125,6.707,-0.418
+122,The Lord of the Rings: The Return of the King,movie,8.505,8.254,-0.251
+1304313,Lee Cronin's The Mummy,movie,7.896,7.925,0.029
+1621552,Facing El Chapo,movie,6.609,6.244,-0.365
+49018,Insidious,movie,6.951,7.198,0.247
+1368166,The Housemaid,movie,7.272,7.272,0.0
+671,Harry Potter and the Philosopher's Stone,movie,7.902,8.3,0.398
+1234821,Jurassic World Rebirth,movie,6.259,6.753,0.494
+652,Troy,movie,7.188,7.447,0.259
+1413976,Citizen Vigilante,movie,6.409,6.589,0.18
+1418582,Here the Whole Time,movie,6.935,6.867,-0.068
+840464,Greenland 2: Migration,movie,6.399,6.624,0.225
+803796,KPop Demon Hunters,movie,8.004,7.352,-0.652
+1393326,Ghost in the Cell,movie,7.4,6.805,-0.595
+1724,The Incredible Hulk,movie,6.257,6.907,0.65
+453395,Doctor Strange in the Multiverse of Madness,movie,7.225,7.401,0.176
+680,Pulp Fiction,movie,8.5,8.395,-0.105
+862,Toy Story,movie,7.987,8.088,0.101
+120,The Lord of the Rings: The Fellowship of the Ring,movie,8.443,8.346,-0.097
+361743,Top Gun: Maverick,movie,8.2,7.774,-0.426
+986056,Thunderbolts*,movie,7.3,7.18,-0.12
+1404304,The Isolate Thief,movie,7.324,6.491,-0.833
+1669051,Kesong Puti,movie,3.8,4.312,0.512
+14836,Coraline,movie,7.932,7.418,-0.514
+1656061,Immortal Combat,movie,4.6,5.662,1.062
+350,The Devil Wears Prada,movie,7.439,7.151,-0.288
+1625901,The Dating App Killer: The Monica White Story,movie,6.833,6.359,-0.474
+1122573,In the Grey,movie,7.6,7.443,-0.157
+354912,Coco,movie,8.197,8.071,-0.126
+496243,Parasite,movie,8.5,8.104,-0.396
+550,Fight Club,movie,8.4,8.295,-0.105
+98,Gladiator,movie,8.2,8.134,-0.066
+1723013,Hibla 2,movie,3.0,4.149,1.149
+693134,Dune: Part Two,movie,8.133,7.586,-0.547
+1235877,Jana Nayagan,movie,5.563,6.048,0.485
+393392,Modori River,movie,5.7,4.955,-0.745
+1497463,All That We Never Were,movie,8.065,7.527,-0.538
+1265609,War Machine,movie,7.45,7.455,0.005
+105,Back to the Future,movie,8.329,8.328,-0.001
+1616131,A Child of My Own,movie,8.153,7.272,-0.881
+53653,Prison on Fire,movie,7.027,6.749,-0.278
+76338,Thor: The Dark World,movie,6.51,7.085,0.575
+447365,Guardians of the Galaxy Vol. 3,movie,7.932,7.563,-0.369
+12444,Harry Potter and the Deathly Hallows: Part 1,movie,7.732,7.774,0.042
+13,Forrest Gump,movie,8.463,8.404,-0.059
+438631,Dune,movie,7.783,7.644,-0.139
+912649,Venom: The Last Dance,movie,6.674,7.125,0.451
+436969,The Suicide Squad,movie,7.451,7.577,0.126
+597,Titanic,movie,7.9,8.158,0.258
+976912,Graphic Desires,movie,6.911,6.863,-0.048
+1598766,Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation,movie,0.0,0.0,0.0
+1168190,The Wrecking Crew,movie,7.08,7.202,0.122
+284053,Thor: Ragnarok,movie,7.581,7.794,0.213
+424,Schindler's List,movie,8.57,8.388,-0.182
+497,The Green Mile,movie,8.505,8.177,-0.328
+91586,Insidious: Chapter 2,movie,6.692,6.843,0.151
+614479,Insidious: The Red Door,movie,6.507,6.943,0.436
+106646,The Wolf of Wall Street,movie,8.027,7.805,-0.222
+390062,Jungle,movie,6.697,6.685,-0.012
+1318621,Descendants: Wicked Wonderland,movie,7.588,7.237,-0.351
+1061474,Superman,movie,7.327,7.419,0.092
+1325734,The Drama,movie,6.9,7.157,0.257
+672,Harry Potter and the Chamber of Secrets,movie,7.706,7.922,0.216
+1719326,The Cheating Wife,movie,2.5,4.326,1.826
+76600,Avatar: The Way of Water,movie,7.587,7.444,-0.143
+674,Harry Potter and the Goblet of Fire,movie,7.801,7.663,-0.138
+807,Se7en,movie,8.38,8.255,-0.125
+240,The Godfather Part II,movie,8.573,8.148,-0.425
+1297842,GOAT,movie,8.087,7.55,-0.537
+129,Spirited Away,movie,8.534,8.205,-0.329
+49026,The Dark Knight Rises,movie,7.797,7.738,-0.059
+138843,The Conjuring,movie,7.541,7.359,-0.182
+12445,Harry Potter and the Deathly Hallows: Part 2,movie,8.08,7.819,-0.261
+616037,Thor: Love and Thunder,movie,6.358,7.045,0.687
+911430,F1,movie,7.822,7.477,-0.345
+1676318,Back to the 90s,movie,5.7,5.914,0.214
+673,Harry Potter and the Prisoner of Azkaban,movie,8.009,8.024,0.015
+1318447,Apex,movie,6.893,7.043,0.15
+246655,X-Men: Apocalypse,movie,6.527,6.832,0.305
+16869,Inglourious Basterds,movie,8.217,7.98,-0.237
+335984,Blade Runner 2049,movie,7.6,7.85,0.25
+1430698,The Bay,movie,5.7,6.341,0.641
+280092,Insidious: Chapter 3,movie,6.292,6.512,0.22
+121,The Lord of the Rings: The Two Towers,movie,8.427,8.275,-0.152
+10138,Iron Man 2,movie,6.855,7.391,0.536
+19995,Avatar,movie,7.609,7.682,0.073
+475557,Joker,movie,8.118,8.045,-0.073
+585,"Monsters, Inc.",movie,7.856,7.979,0.123
+1272837,28 Years Later: The Bone Temple,movie,7.094,7.035,-0.059
+950387,A Minecraft Movie,movie,6.227,6.767,0.54
+406563,Insidious: The Last Key,movie,6.27,6.549,0.279
+1185806,PAW Patrol: The Dino Movie,movie,7.192,6.874,-0.318
+1010581,My Fault,movie,7.7,7.54,-0.16
+324786,Hacksaw Ridge,movie,8.192,7.811,-0.381
+280,Terminator 2: Judgment Day,movie,8.164,8.037,-0.127
+8587,The Lion King,movie,8.252,8.241,-0.011
+1632181,Accidental Partners,movie,8.884,8.575,-0.309
+389,12 Angry Men,movie,8.569,8.435,-0.134
+1232449,Young Hearts,movie,8.6,8.507,-0.093
+1218925,Chainsaw Man - The Movie: Reze Arc,movie,8.533,8.465,-0.068
+19404,Dilwale Dulhania Le Jayenge,movie,8.5,8.338,-0.162
+372058,Your Name.,movie,8.485,8.42,-0.065
+1181678,¿Quieres ser mi hijo?,movie,8.47,8.421,-0.049
+429,"The Good, the Bad and the Ugly",movie,8.466,8.409,-0.057
+1383731,Protector,movie,8.457,8.39,-0.067
+14537,Harakiri,movie,8.456,8.264,-0.192
+346,Seven Samurai,movie,8.453,8.329,-0.124
+769,GoodFellas,movie,8.451,8.331,-0.12
+12477,Grave of the Fireflies,movie,8.447,8.354,-0.093
+1330021,Remarkably Bright Creatures,movie,8.433,8.372,-0.061
+637,Life Is Beautiful,movie,8.437,8.373,-0.064
+11216,Cinema Paradiso,movie,8.43,8.391,-0.039
+598,City of God,movie,8.427,8.364,-0.063
+40096,A Dog's Will,movie,8.417,8.32,-0.097
+539,Psycho,movie,8.408,8.314,-0.094
+667257,Impossible Things,movie,8.406,8.319,-0.087
+510,One Flew Over the Cuckoo's Nest,movie,8.406,8.327,-0.079
+620249,The Legend of Hei,movie,8.405,8.247,-0.158
+378064,A Silent Voice: The Movie,movie,8.394,8.32,-0.074
+1891,The Empire Strikes Back,movie,8.392,8.278,-0.114
+4935,Howl's Moving Castle,movie,8.387,8.399,0.012
+255709,Hope,movie,8.386,8.289,-0.097
+696374,Gabriel's Inferno,movie,8.382,8.278,-0.104
+12493,High and Low,movie,8.376,8.321,-0.055
+770156,Lucy Shimmers and the Prince of Peace,movie,8.379,8.381,0.002
+244786,Whiplash,movie,8.375,8.295,-0.08
+311,Once Upon a Time in America,movie,8.374,8.303,-0.071
+423,The Pianist,movie,8.37,8.288,-0.082
+724089,Gabriel's Inferno: Part II,movie,8.348,8.264,-0.084
+274,The Silence of the Lambs,movie,8.344,8.279,-0.065
+614945,Voicemails for Isabelle,movie,8.337,8.406,0.069
+761053,Gabriel's Inferno: Part III,movie,8.339,8.288,-0.051
+567,Rear Window,movie,8.337,8.265,-0.072
+1058694,Radical,movie,8.3,8.246,-0.054
+73,American History X,movie,8.326,8.268,-0.058
+128,Princess Mononoke,movie,8.321,8.331,0.01
+372754,Dou kyu sei – Classmates,movie,8.316,8.28,-0.036
+3782,Ikiru,movie,8.3,8.265,-0.035
+10494,Perfect Blue,movie,8.306,8.312,0.006
+533514,Violet Evergarden: The Movie,movie,8.3,8.274,-0.026
+207,Dead Poets Society,movie,8.296,8.344,0.048
+101,Léon: The Professional,movie,8.293,8.292,-0.001
+644479,Dedicated to my ex,movie,8.285,8.265,-0.02
+914,The Great Dictator,movie,8.285,8.222,-0.063
+3082,Modern Times,movie,8.283,8.242,-0.041
+42269,We All Loved Each Other So Much,movie,8.282,8.244,-0.038
+820067,The Quintessential Quintuplets Movie,movie,8.278,8.255,-0.023
+654299,Out of the Clear Blue Sky,movie,8.278,8.305,0.027
+599,Sunset Boulevard,movie,8.276,8.247,-0.029
+1585,It's a Wonderful Life,movie,8.3,8.312,0.012
+77338,The Intouchables,movie,8.271,8.263,-0.008
+335,Once Upon a Time in the West,movie,8.269,8.32,0.051
+28,Apocalypse Now,movie,8.261,8.292,0.031
+92321,Hotarubi no Mori e,movie,8.259,8.264,0.005
+18491,Neon Genesis Evangelion: The End of Evangelion,movie,8.258,8.289,0.031
+1356039,Counterattack,movie,8.257,8.258,0.001
+92060,Michael Jackson's Thriller,movie,8.257,8.228,-0.029
+652837,"Josee, the Tiger and the Fish",movie,8.252,8.265,0.013
+975,Paths of Glory,movie,8.251,8.229,-0.022
+901,City Lights,movie,8.251,8.247,-0.004
+1139087,Once Upon a Studio,movie,8.254,8.243,-0.011
+637920,Miracle in Cell No. 7,movie,8.25,8.256,0.006
+29259,Le Trou,movie,8.246,8.209,-0.037
+630566,Clouds,movie,8.244,8.26,0.016
+10376,The Legend of 1900,movie,8.24,8.25,0.01
+670,Oldboy,movie,8.236,8.291,0.055
+15804,A Brighter Summer Day,movie,8.234,8.283,0.049
+572154,Rascal Does Not Dream of a Dreaming Girl,movie,8.232,8.238,0.006
+857,Saving Private Ryan,movie,8.232,8.266,0.034
+1317149,I Swear,movie,8.2,8.273,0.073
+504253,I Want to Eat Your Pancreas,movie,8.23,8.203,-0.027
+635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,movie,8.227,8.276,0.049
+24188,Il Sorpasso,movie,8.226,8.204,-0.022
+632632,Given,movie,8.2,8.246,0.046
+490132,Green Book,movie,8.222,8.216,-0.006
+447362,Life in a Year,movie,8.222,8.204,-0.018
+508965,Klaus,movie,8.219,8.224,0.005
+16672,Woman in the Dunes,movie,8.2,8.238,0.038
+283566,Evangelion: 3.0+1.0 Thrice Upon a Time,movie,8.216,8.238,0.022
+110420,Wolf Children,movie,8.216,8.21,-0.006
+527641,Five Feet Apart,movie,8.215,8.211,-0.004
+315162,Puss in Boots: The Last Wish,movie,8.215,8.233,0.018
+995133,"The Boy, the Mole, the Fox and the Horse",movie,8.213,8.307,0.094
+1124,The Prestige,movie,8.211,8.207,-0.004
+37257,Witness for the Prosecution,movie,8.2,8.2,0.0
+9702,Bound by Honor,movie,8.206,8.215,0.009
+11,Star Wars,movie,8.206,8.277,0.071
+1244492,Look Back,movie,8.194,8.211,0.017
+50014,The Help,movie,8.204,8.223,0.019
+694,The Shining,movie,8.201,8.227,0.026
+568332,Taylor Swift: Reputation Stadium Tour,movie,8.199,8.217,0.018
+25237,Come and See,movie,8.198,8.218,0.02
+11324,Shutter Island,movie,8.197,8.187,-0.01
+265177,Mommy,movie,8.195,8.196,0.001
+568300,BTS WORLD TOUR [LOVE YOURSELF] in Seoul,movie,8.2,8.214,0.014
+68718,Django Unchained,movie,8.193,8.191,-0.002
+618344,Justice League Dark: Apokolips War,movie,8.189,8.207,0.018
+537061,Steven Universe: The Movie,movie,8.2,8.212,0.012
+26451,Investigation of a Citizen Above Suspicion,movie,8.19,8.2,0.01
+1186532,The Forge,movie,8.2,8.416,0.216
+284,The Apartment,movie,8.184,8.197,0.013
+3780,Red Beard,movie,8.182,8.257,0.075
+20941,Innocent Voices,movie,8.181,8.21,0.029
+851644,20th Century Girl,movie,8.179,8.214,0.035
+620683,My Mom Is a Character 3,movie,8.2,8.24,0.04
+313106,Doctor Who: The Day of the Doctor,movie,8.179,8.205,0.026
+290098,The Handmaiden,movie,8.176,8.294,0.118
+1160164,TAYLOR SWIFT | THE ERAS TOUR,movie,8.174,8.208,0.034
+77,Memento,movie,8.175,8.186,0.011
+348,Alien,movie,8.172,8.223,0.051
+185,A Clockwork Orange,movie,8.171,8.192,0.021
+441130,Wolfwalkers,movie,8.17,8.197,0.027
+81481,Silenced,movie,8.16,8.21,0.05
+629,The Usual Suspects,movie,8.165,8.237,0.072
+5156,Bicycle Thieves,movie,8.164,8.232,0.068
+489,Good Will Hunting,movie,8.165,8.287,0.122
+1422,The Departed,movie,8.159,8.206,0.047
+522924,The Art of Racing in the Rain,movie,8.156,8.186,0.03
+37165,The Truman Show,movie,8.156,8.192,0.036
+980477,Ne Zha 2,movie,8.2,8.276,0.076
+111,Scarface,movie,8.152,8.189,0.037
+517814,Capernaum,movie,8.148,8.173,0.025
+18148,Tokyo Story,movie,8.148,8.206,0.058
+490,The Seventh Seal,movie,8.141,8.177,0.036
+10098,The Kid,movie,8.138,8.219,0.081
+289,Casablanca,movie,8.138,8.186,0.048
+606856,Togo,movie,8.138,8.172,0.034
+476292,Maquia: When the Promised Flower Blooms,movie,8.136,8.232,0.096
+399106,Piper,movie,8.136,8.184,0.048
+426,Vertigo,movie,8.135,8.165,0.03
+872,Singin' in the Rain,movie,8.133,8.197,0.064
+592350,My Hero Academia: Heroes Rising,movie,8.1,8.169,0.069
+458220,Palmer,movie,8.124,8.174,0.05
+414419,Kill Bill: The Whole Bloody Affair,movie,8.1,8.153,0.053
+103,Taxi Driver,movie,8.123,8.173,0.05
+10681,WALL·E,movie,8.12,8.216,0.096
+797,Persona,movie,8.121,8.164,0.043
+935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,movie,8.12,8.162,0.042
+666,Central Station,movie,8.119,8.271,0.152
+600,Full Metal Jacket,movie,8.118,8.184,0.066
+575813,Better Days,movie,8.1,8.24,0.14
+20914,My Friends,movie,8.116,8.175,0.059
+500,Reservoir Dogs,movie,8.111,8.185,0.074
+146233,Prisoners,movie,8.106,8.162,0.056
+810693,Jujutsu Kaisen 0,movie,8.103,8.154,0.051
+46738,Incendies,movie,8.102,8.153,0.051
+38288,"“The Shorts” by Aldo, Giovanni and Giacomo",movie,8.1,8.433,0.333
+1103621,How to Make Millions Before Grandma Dies,movie,8.099,8.198,0.099
+664767,Mortal Kombat Legends: Scorpion's Revenge,movie,8.099,8.226,0.127
+406997,Wonder,movie,8.099,8.141,0.042
+1384216,The Dog Stars,movie,7.3,7.589,0.289
+1204680,Coyote vs. Acme,movie,7.4,7.392,-0.008
+1240889,Teenage Sex and Death at Camp Miasma,movie,6.755,6.792,0.037
+1748007,Niu Lai,movie,4.0,5.619,1.619
+1433367,One Night Only,movie,6.9,6.943,0.043
+1242332,Normal,movie,7.248,6.693,-0.555
+1308767,Young Washington,movie,7.753,7.126,-0.627
+1732625,LEGO Disney Princess: Magical Mayhem,movie,8.75,7.41,-1.34
+1170608,Dune: Part Three,movie,0.0,0.0,0.0
+1302904,Practical Magic 2,movie,0.0,0.0,0.0
+1341138,Spa Weekend,movie,7.0,7.009,0.009
+1688804,Freefall: A Reckoning for Boeing,movie,6.8,6.842,0.042
+1281195,Truly Naked,movie,7.1,6.852,-0.248
+1441228,Irumudi,movie,6.5,6.449,-0.051
+1669841,Bleach: Thousand-Year Blood War - The Calamity,movie,7.5,7.234,-0.266
+1589248,"My Best Friend, His Girlfriend and Me",movie,5.761,6.182,0.421
+1588838,To the Max,movie,5.871,6.322,0.451
+1741201,Chompoo: Lost​ &​ Forgotten​,movie,6.3,6.692,0.392
+1423191,Resident Evil,movie,0.0,0.0,0.0
+1321008,Black Box,movie,6.191,6.193,0.002
+1430077,Hokum,movie,6.911,6.908,-0.003
+1400940,Clayface,movie,0.0,0.0,0.0
+1368314,Passenger,movie,7.299,7.305,0.006
+1169537,Batwara 1947,movie,6.0,6.093,0.093
+791523,Wildwood,movie,0.0,0.0,0.0
+1480387,undertone,movie,6.042,6.54,0.498
+1477712,Ice Cream Man,movie,4.9,6.974,2.074
+1101412,Fall 2: Deadpoint,movie,0.0,0.0,0.0
+1444466,Awarapan 2,movie,0.0,0.0,0.0
+1318413,Pressure,movie,7.8,7.152,-0.648
+1375441,Primetime,movie,0.0,0.0,0.0
+1632473,"This, That, and Everything in Between",movie,7.2,7.334,0.134
+860508,The Whisper Man,movie,0.0,0.0,0.0
+1159559,Scream 7,movie,6.238,6.631,0.393
+1422011,It Ends,movie,4.7,6.639,1.939
+910850,MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe,movie,7.4,7.116,-0.284
+1233413,Sinners,movie,7.507,7.468,-0.039
+1248832,Digger,movie,0.0,0.0,0.0
+1599668,Landship,movie,4.0,5.78,1.78
+1317288,Marty Supreme,movie,7.365,7.156,-0.209
+1339175,The Birthday Party,movie,5.313,7.096,1.783
+1169516,Welcome To The Jungle,movie,4.964,5.504,0.54
+1401459,Fjord,movie,6.896,7.107,0.211
+1418709,Bagarre,movie,5.239,5.958,0.719
+1255833,Whalefall,movie,0.0,0.0,0.0
+1102883,Mother Mary,movie,5.701,6.076,0.375
+1361969,All Night Wrong,movie,6.9,6.222,-0.678
+1515615,Kissing Is the Easy Part,movie,7.234,6.84,-0.394
+1700944,"Love, Ngo",movie,9.5,8.087,-1.413
+1266800,The Desert Child,movie,7.7,7.292,-0.408
+1392469,Cocktail 2,movie,5.821,5.748,-0.073
+1679730,THE RIBBON HERO,movie,6.906,6.744,-0.162
+1283515,Verity,movie,0.0,0.0,0.0
+1198994,Send Help,movie,7.04,7.119,0.079
+1193501,Whistle,movie,6.324,6.587,0.263
+1476682,Gail Daughtry and the Celebrity Sex Pass,movie,6.609,6.545,-0.064
+858024,Hamnet,movie,7.7,7.289,-0.411
+1266127,Ready or Not: Here I Come,movie,7.572,7.292,-0.28
+1145899,Marsupilami,movie,6.367,6.272,-0.095
+1382832,Hungry,movie,7.184,7.21,0.026
+541671,Ballerina,movie,7.271,7.158,-0.113
+1153576,Street Fighter,movie,0.0,0.0,0.0
+1288059,I Want Your Sex,movie,6.056,6.462,0.406
+1397485,Girls Like Girls,movie,6.939,6.421,-0.518
+87513,Motor City,movie,6.3,6.469,0.169
+1124142,The Rivals of Amziah King,movie,7.3,7.013,-0.287
+1119449,"Good Luck, Have Fun, Don't Die",movie,7.067,7.001,-0.066
+1128204,Feed,movie,4.2,5.67,1.47
+1381027,Good Boy,movie,7.274,7.203,-0.071
+1465063,Forgotten Island,movie,0.0,0.0,0.0
+1284046,Onslaught,movie,0.0,0.0,0.0
+1058424,Hope,movie,8.2,7.133,-1.067
+1341137,A Great Awakening,movie,7.3,6.766,-0.534
+425274,Now You See Me: Now You Don't,movie,6.46,6.774,0.314
+1408170,Lenin,movie,6.4,6.773,0.373
+192139,The Brink of War,movie,8.0,7.291,-0.709
+1316092,"""Wuthering Heights""",movie,6.65,6.676,0.026
+1380316,Is God Is,movie,5.8,6.229,0.429
+1213243,Toxic: A Fairy Tale for Grown-ups,movie,0.0,0.0,0.0
+1315843,Daddy's in Trouble,movie,7.265,7.017,-0.248
+1263532,Beast Race,movie,6.809,6.748,-0.061
+1626188,Novak Djokovic: The Wolf in Winter,movie,10.0,8.233,-1.767
+1408208,Exit 8,movie,7.012,7.065,0.053
+1339588,Finding Emily,movie,6.9,6.754,-0.146
+1000990,Mrs.,movie,6.2,6.335,0.135
+1567937,V,movie,6.5,7.055,0.555
+1469342,Her Private Hell,movie,5.1,6.107,1.007
+1725038,Aussie at Heart,movie,7.5,7.198,-0.302
+426063,Nosferatu,movie,6.715,7.277,0.562
+1432306,Sleepwalker,movie,4.75,5.753,1.003
+1285959,The Passenger,movie,5.3,6.238,0.938
+933260,The Substance,movie,7.131,7.507,0.376
+1171145,Crime 101,movie,7.004,7.04,0.036
+1241436,Warfare,movie,7.071,7.217,0.146
+1680072,The Narcissist's Playbook,movie,7.0,6.138,-0.862
+1087192,How to Train Your Dragon,movie,7.9,7.146,-0.754
+1736062,Disney Worldbuilders,movie,0.0,0.0,0.0
+1236153,Mercy,movie,7.084,6.951,-0.133
+1633056,All Wishes Come True!,movie,7.947,6.771,-1.176
+1647153,MYSTERY ARENA,movie,6.0,6.3,0.3
+1409853,Neglected,movie,6.4,5.9,-0.5
+1241982,Moana 2,movie,6.993,7.018,0.025
+1284016,Power Ballad,movie,7.088,6.607,-0.481
+1242265,Fuze,movie,7.223,6.973,-0.25
+1447853,Oasis: Don't Look Back in Anger,movie,0.0,0.0,0.0
+1292695,They Will Kill You,movie,6.946,6.814,-0.132
+1124566,Sentimental Value,movie,7.5,7.273,-0.227
+1244523,Beware Boiúna,movie,0.0,0.0,0.0
+1384758,Ice Age: Boiling Point,movie,0.0,0.0,0.0
+1506560,Clash of the Thundermans,movie,0.0,0.0,0.0
+1038392,The Conjuring: Last Rites,movie,6.9,6.944,0.044
+1202033,Enola Holmes 3,movie,6.795,6.672,-0.123
+108978,Reacher,tv,8.086,8.03,-0.056
+5920,The Mentalist,tv,8.4,7.914,-0.486
+125988,Silo,tv,8.193,8.102,-0.091
+51025,Paradise Hotel,tv,5.6,5.294,-0.306
+113962,Lioness,tv,8.1,7.938,-0.162
+95350,Lanterns,tv,8.178,7.409,-0.769
+67707,Paradise Hotel,tv,5.0,5.161,0.161
+37528,Gran hermano,tv,4.5,4.901,0.401
+2734,Law & Order: Special Victims Unit,tv,7.96,7.892,-0.068
+94722,Tagesschau,tv,6.768,6.911,0.143
+94997,House of the Dragon,tv,8.385,8.357,-0.028
+1416,Grey's Anatomy,tv,8.2,8.17,-0.03
+79744,The Rookie,tv,8.543,8.059,-0.484
+456,The Simpsons,tv,8.021,8.059,0.038
+1434,Family Guy,tv,7.411,7.836,0.425
+100757,Outer Banks,tv,8.243,7.901,-0.342
+4614,NCIS,tv,7.61,7.814,0.204
+1622,Supernatural,tv,8.314,8.292,-0.022
+549,Law & Order,tv,7.3,7.076,-0.224
+22980,Watch What Happens Live with Andy Cohen,tv,5.0,6.65,1.65
+59941,The Tonight Show Starring Jimmy Fallon,tv,5.764,6.416,0.652
+310518,Hockey Psychology,tv,0.0,0.0,0.0
+60625,Rick and Morty,tv,8.7,8.44,-0.26
+227292,Capitão Furacão,tv,0.0,0.0,0.0
+53270,Barwy szczęścia,tv,5.0,5.397,0.397
+4057,Criminal Minds,tv,8.298,8.197,-0.101
+1431,CSI: Crime Scene Investigation,tv,7.623,7.65,0.027
+1402,The Walking Dead,tv,8.082,8.312,0.23
+615,Futurama,tv,8.364,8.13,-0.234
+1399,Game of Thrones,tv,8.47,8.455,-0.015
+8745,Balika Vadhu,tv,4.7,5.967,1.267
+50821,Among Friends,tv,3.775,4.819,1.044
+70998,Souryo to Majiwaru Shikiyoku no Yoru ni...,tv,5.467,5.928,0.461
+97546,Ted Lasso,tv,8.362,8.139,-0.223
+285151,Raja Rani Chi Ga Jodi,tv,7.0,7.144,0.144
+124364,FROM,tv,8.492,8.36,-0.132
+2224,The Daily Show,tv,6.393,6.906,0.513
+204269,Caressing My Hibernating Bear,tv,5.9,6.48,0.58
+31472,Pelotón,tv,9.0,7.106,-1.894
+34307,Shameless,tv,8.167,8.066,-0.101
+63770,The Late Show with Stephen Colbert,tv,6.074,6.413,0.339
+1396,Breaking Bad,tv,8.9,8.531,-0.369
+91555,All Elite Wrestling: Dynamite,tv,8.0,7.372,-0.628
+1405,Dexter,tv,8.241,8.244,0.003
+764,Midsomer Murders,tv,7.46,7.075,-0.385
+1433,American Dad!,tv,7.023,7.747,0.724
+36109,Paradise Hotel,tv,5.7,6.143,0.443
+2661,Kamen Rider,tv,6.413,6.451,0.038
+65334,Miraculous: Tales of Ladybug & Cat Noir,tv,8.062,8.146,0.084
+1668,Friends,tv,8.415,8.366,-0.049
+61818,Late Night with Seth Meyers,tv,5.083,6.695,1.612
+4604,Smallville,tv,8.2,8.195,-0.005
+502,Sesame Street,tv,7.112,7.04,-0.072
+69536,Cosmic Disclosure,tv,10.0,6.855,-3.145
+94664,Mushoku Tensei: Jobless Reincarnation,tv,8.409,8.378,-0.031
+278624,Lucky,tv,7.228,7.191,-0.037
+310751,哆啦A梦TV版,tv,0.0,0.0,0.0
+95897,Overflow,tv,7.456,7.307,-0.149
+1911,Bones,tv,8.182,8.061,-0.121
+2261,The Tonight Show Starring Johnny Carson,tv,7.553,6.894,-0.659
+13945,"Gute Zeiten, schlechte Zeiten",tv,5.5,5.784,0.284
+206559,Binnelanders,tv,5.5,5.943,0.443
+46952,The Blacklist,tv,7.633,7.873,0.24
+1966,Horizon,tv,7.397,6.459,-0.938
+65733,Doraemon,tv,8.1,7.467,-0.633
+291,Coronation Street,tv,5.373,6.393,1.02
+11890,"Goede Tijden, Slechte Tijden",tv,5.3,5.391,0.091
+2316,The Office,tv,8.581,8.404,-0.177
+66732,Stranger Things,tv,8.554,8.246,-0.308
+76479,The Boys,tv,8.436,8.193,-0.243
+57243,Doctor Who,tv,7.622,7.766,0.144
+30984,Bleach,tv,8.367,8.279,-0.088
+14610,Secret Lives,tv,4.2,4.769,0.569
+16807,Jornal Nacional,tv,6.625,6.24,-0.385
+3452,Frasier,tv,7.696,7.737,0.041
+4656,Raw,tv,6.801,7.173,0.372
+19530,Pili,tv,6.9,6.163,-0.737
+27181,Rote Rosen,tv,3.0,5.483,2.483
+233643,Secret Mission - Undercover Agents Never Back Down!,tv,6.2,7.325,1.125
+1421,Modern Family,tv,7.913,7.959,0.046
+31132,Regular Show,tv,8.6,8.246,-0.354
+45140,Teen Titans Go!,tv,6.434,7.179,0.745
+82873,The Kelly Clarkson Show,tv,6.3,6.708,0.408
+46271,Secret Story,tv,4.423,6.053,1.63
+32798,Hawaii Five-0,tv,7.736,7.887,0.151
+73586,Yellowstone,tv,8.267,8.178,-0.089
+44006,Chicago Fire,tv,8.409,8.274,-0.135
+284029,The Cat and the Dragon,tv,8.667,7.824,-0.843
+14686,Alles was zählt,tv,4.875,5.203,0.328
+498,Late Show with David Letterman,tv,6.418,6.476,0.058
+117217,El conquistador,tv,5.7,5.701,0.001
+4601,Law & Order: Criminal Intent,tv,7.579,7.299,-0.28
+790,Agatha Christie's Poirot,tv,8.182,7.645,-0.537
+18165,The Vampire Diaries,tv,8.3,8.267,-0.033
+57532,PAW Patrol,tv,6.988,7.397,0.409
+2691,Two and a Half Men,tv,7.452,7.687,0.235
+37678,The Voice,tv,5.9,6.477,0.577
+37680,Suits,tv,8.222,8.122,-0.1
+1398,The Sopranos,tv,8.7,8.282,-0.418
+44217,Vikings,tv,8.1,8.13,0.03
+206484,Jade Dynasty,tv,8.1,7.595,-0.505
+71789,SEAL Team,tv,8.0,8.027,0.027
+49847,House Rules,tv,7.2,6.961,-0.239
+71790,S.W.A.T.,tv,8.038,8.023,-0.015
+60735,The Flash,tv,7.75,8.07,0.32
+58841,Chicago P.D.,tv,8.427,8.228,-0.199
+40694,Lenßen & Partner,tv,6.5,6.468,-0.032
+75219,9-1-1,tv,8.224,8.177,-0.047
+2288,Prison Break,tv,8.066,8.148,0.082
+65682,Sister-in-Law Is at Home!,tv,5.6,5.988,0.388
+288989,ChocoPro Wrestling,tv,0.0,0.0,0.0
+80748,FBI,tv,7.925,7.95,0.025
+15260,Adventure Time,tv,8.51,7.983,-0.527
+65942,Re:ZERO -Starting Life in Another World-,tv,8.079,7.969,-0.11
+1407,Homeland,tv,7.591,7.85,0.259
+37057,CITV Breakfast,tv,0.0,0.0,0.0
+324186,Majhi Manasa,tv,0.0,0.0,0.0
+1413,American Horror Story,tv,8.076,8.107,0.031
+693,Desperate Housewives,tv,7.9,7.997,0.097
+4607,Lost,tv,8.0,8.293,0.293
+1419,Castle,tv,7.967,8.023,0.056
+32692,Blue Bloods,tv,7.785,7.966,0.181
+45789,Storm of Love,tv,6.0,5.687,-0.313
+95479,JUJUTSU KAISEN,tv,8.6,8.435,-0.165
+17887,7de Laan,tv,8.333,5.27,-3.063
+688,The West Wing,tv,8.3,7.502,-0.798
+91759,Come Home Love: Lo and Behold,tv,5.4,6.314,0.914
+250307,The Pitt,tv,8.733,8.356,-0.377
+45768,Mais Você,tv,6.3,5.464,-0.836
+108188,Barbara Karlich – Talk um 4,tv,4.5,5.257,0.757
+71712,The Good Doctor,tv,8.453,8.174,-0.279
+46296,Spartacus,tv,8.029,8.017,-0.012
+2912,Jeopardy!,tv,6.9,6.621,-0.279
+46831,Government Job,tv,7.9,7.474,-0.426
+44953,El Señor de los Cielos,tv,8.005,8.076,0.071
+32726,Bob's Burgers,tv,7.841,7.813,-0.028
+224,Match of the Day,tv,7.6,6.451,-1.149
+36361,Ulice,tv,4.8,5.164,0.364
+32415,Conan,tv,7.156,6.953,-0.203
+241002,Adam's Sweet Agony,tv,6.9,6.984,0.084
+1620,CSI: Miami,tv,7.688,7.95,0.262
+70672,Men on a Mission,tv,7.4,6.649,-0.751
+4087,The X-Files,tv,8.371,8.252,-0.119
+318058,A Girl's Guide to 21st Century Sex,tv,0.0,0.0,0.0
+2190,South Park,tv,8.336,8.311,-0.025
+72879,Tomorrow Is Ours,tv,6.366,6.936,0.57
+14447,L for Love,tv,4.0,4.568,0.568
+1973,24,tv,7.787,7.954,0.167
+63174,Lucifer,tv,8.43,8.373,-0.057
+1412,Arrow,tv,6.836,8.22,1.384
+30983,Detective Conan,tv,8.015,7.881,-0.134
+318325,Tony Awards,tv,0.0,0.0,0.0
+269,One Tree Hill,tv,7.8,7.402,-0.398
+4177,Perry Mason,tv,7.71,6.984,-0.726
+46034,Die Küchenschlacht,tv,8.0,7.117,-0.883
+2122,King of the Hill,tv,7.414,7.283,-0.131
+123087,Altas Horas,tv,8.0,6.689,-1.311
+4419,Real Time with Bill Maher,tv,6.051,6.588,0.537
+291496,Our Sticky Love,tv,8.701,7.881,-0.82
+215709,Redemption,tv,6.5,7.358,0.858
+3022,Rugrats,tv,7.608,7.546,-0.062
+12225,Peppa Pig,tv,6.6,7.194,0.594
+318490,Kavyanjali,tv,0.0,0.0,0.0
+40663,AIBOU: Tokyo Detective Duo,tv,7.545,4.934,-2.611
+71728,Young Sheldon,tv,8.028,8.077,0.049
+82991,Bharaghar,tv,8.0,7.425,-0.575
+4629,Stargate SG-1,tv,8.271,8.129,-0.142
+39351,Grimm,tv,8.266,8.06,-0.206
+220542,The Apothecary Diaries,tv,8.63,8.276,-0.354
+10871,Hotel Cæsar,tv,3.6,4.712,1.112
+4385,The Colbert Report,tv,6.945,7.123,0.178
+1667,Saturday Night Live,tv,6.908,7.174,0.266
+35007,De Fabeltjeskrant,tv,8.0,5.89,-2.11
+16322,X Factor,tv,7.5,6.674,-0.826
+60574,Peaky Blinders,tv,8.525,8.402,-0.123
+41956,Death in Paradise,tv,7.442,7.01,-0.432
+209867,Frieren: Beyond Journey's End,tv,8.802,8.478,-0.324
+4239,Married... with Children,tv,7.728,7.791,0.063
+1636,Top of the Pops,tv,6.6,6.255,-0.345
+1411,Person of Interest,tv,8.1,8.055,-0.045
+82588,Köln 50667,tv,0.0,0.0,0.0
+873,Columbo,tv,8.064,7.97,-0.094
+320571,Know How...,tv,0.0,0.0,0.0
+278796,Kanaa,tv,0.0,0.0,0.0
+3034,Scene of the Crime,tv,6.2,6.595,0.395
+315038,Resort,tv,0.0,0.0,0.0
+226637,High Potential,tv,8.227,7.935,-0.292
+287439,Kena Bou,tv,0.0,0.0,0.0
+33238,Running Man,tv,8.222,7.715,-0.507
+39269,Scandal,tv,7.2,7.335,0.135
+1435,The Good Wife,tv,7.618,7.451,-0.167
+60802,The Last Ship,tv,6.879,7.921,1.042
+276612,Ninaithen Vandhai,tv,0.0,0.0,0.0
+8590,Plus belle la vie,tv,4.4,5.132,0.732
+1400,Seinfeld,tv,8.255,8.197,-0.058
+288027,Sohag Chand,tv,0.0,0.0,0.0
+79917,Bares für Rares,tv,7.6,7.304,-0.296
+291856,Forging Justice,tv,8.0,7.361,-0.639
+276161,Teach You a Lesson,tv,9.4,9.013,-0.387
+299167,Dutton Ranch,tv,9.163,9.005,-0.158
+273240,Off Campus,tv,8.917,9.025,0.108
+259837,The WONDERfools,tv,8.874,8.9,0.026
+245026,Wizards Beyond Waverly Place,tv,8.9,8.673,-0.227
+85077,The Chosen,tv,8.796,8.676,-0.12
+246,Avatar: The Last Airbender,tv,8.78,8.688,-0.092
+219246,When Life Gives You Tangerines,tv,8.8,8.704,-0.096
+64010,Reply 1988,tv,8.76,8.54,-0.22
+94605,Arcane,tv,8.751,8.65,-0.101
+37854,One Piece,tv,8.751,8.674,-0.077
+259666,No One Will Miss Us,tv,8.747,8.689,-0.058
+301507,Heated Rivalry,tv,8.744,8.717,-0.027
+87108,Chernobyl,tv,8.722,8.649,-0.073
+31911,Fullmetal Alchemist: Brotherhood,tv,8.717,8.633,-0.084
+60059,Better Call Saul,tv,8.711,8.645,-0.066
+200709,Weak Hero,tv,8.7,8.622,-0.078
+138502,X-Men '97,tv,8.693,8.654,-0.039
+1429,Attack on Titan,tv,8.684,8.592,-0.092
+127532,Solo Leveling,tv,8.673,8.608,-0.065
+92685,The Owl House,tv,8.7,8.623,-0.077
+42573,Slam Dunk,tv,8.7,8.614,-0.086
+42705,Fighting Spirit,tv,8.666,8.621,-0.045
+46298,Hunter x Hunter,tv,8.663,8.627,-0.036
+261145,The Amazing Digital Circus,tv,8.663,8.572,-0.091
+131378,Adventure Time: Fionna and Cake,tv,8.7,8.64,-0.06
+89456,Primal,tv,8.7,8.61,-0.09
+271607,The Fragrant Flower Blooms with Dignity,tv,8.657,8.665,0.008
+70785,Anne with an E,tv,8.651,8.635,-0.016
+74313,Blue Planet II,tv,8.642,8.593,-0.049
+1430,Cosmos: A Personal Voyage,tv,8.648,8.534,-0.114
+85937,Demon Slayer: Kimetsu no Yaiba,tv,8.639,8.626,-0.013
+68595,Planet Earth II,tv,8.638,8.519,-0.119
+1044,Planet Earth,tv,8.6,8.581,-0.019
+1438,The Wire,tv,8.635,8.606,-0.029
+95557,INVINCIBLE,tv,8.635,8.636,0.001
+72637,Once,tv,8.631,8.602,-0.029
+62741,Kamisama Kiss,tv,8.631,8.57,-0.061
+3498,Wizards of Waverly Place,tv,8.6,8.595,-0.005
+3854,The Spectacular Spider-Man,tv,8.627,8.584,-0.043
+77696,Run BTS!,tv,8.622,8.569,-0.053
+230923,Lovely Runner,tv,8.6,8.554,-0.046
+57706,Ranma ½,tv,8.621,8.595,-0.026
+13916,Death Note,tv,8.621,8.635,0.014
+280945,"Bon Appétit, Your Majesty",tv,8.62,8.62,0.0
+40075,Gravity Falls,tv,8.6,8.58,-0.02
+80040,Desafío Champions Sendokai,tv,8.618,8.587,-0.031
+43,31 Minutes,tv,8.618,8.572,-0.046
+67915,Guardian: The Lonely and Great God,tv,8.6,8.598,-0.002
+60863,Haikyu!!,tv,8.616,8.564,-0.052
+35790,Cardcaptor Sakura,tv,8.611,8.55,-0.061
+100,I Am Not an Animal,tv,8.611,8.557,-0.054
+289219,Star Wars: Maul - Shadow Lord,tv,8.6,8.796,0.196
+65930,My Hero Academia,tv,8.6,8.619,0.019
+234763,The Boy's Word: Blood on the Asphalt,tv,8.604,8.601,-0.003
+85349,Amphibia,tv,8.603,8.609,0.006
+62914,Merlí,tv,8.601,8.505,-0.096
+79141,Scissor Seven,tv,8.6,8.57,-0.03
+4613,Band of Brothers,tv,8.6,8.614,0.014
+37419,Zoids: Chaotic Century,tv,8.591,8.56,-0.031
+119464,Navillera,tv,8.6,8.605,0.005
+82728,Bluey,tv,8.6,8.582,-0.018
+46896,The Originals,tv,8.586,8.578,-0.008
+2098,Batman: The Animated Series,tv,8.585,8.577,-0.008
+95269,Toilet-Bound Hanako-kun,tv,8.6,8.576,-0.024
+135157,Alchemy of Souls,tv,8.58,8.563,-0.017
+61663,Your Lie in April,tv,8.579,8.545,-0.034
+36189,Boris,tv,8.578,8.563,-0.015
+21650,I'm in the Band,tv,8.583,8.564,-0.019
+35610,InuYasha,tv,8.6,8.572,-0.028
+31356,Big Time Rush,tv,8.572,8.589,0.017
+61617,Over the Garden Wall,tv,8.6,8.593,-0.007
+1408,House,tv,8.565,8.602,0.037
+124834,Heartstopper,tv,8.6,8.569,-0.031
+2192,Robotech,tv,8.564,8.562,-0.002
+9302,Digimon Tamers,tv,8.562,8.543,-0.019
+890,Neon Genesis Evangelion,tv,8.562,8.555,-0.007
+97186,"Love, Victor",tv,8.561,8.567,0.006
+80564,Banana Fish,tv,8.6,8.543,-0.057
+76662,My Mister,tv,8.6,8.637,0.037
+45790,JoJo's Bizarre Adventure,tv,8.6,8.597,-0.003
+207250,The Dangers in My Heart,tv,8.56,8.563,0.003
+94954,Hazbin Hotel,tv,8.556,8.596,0.04
+98214,Villainous,tv,8.554,8.567,0.013
+256721,Gachiakuta,tv,8.551,8.619,0.068
+12313,Shadow Hunter,tv,8.5,8.546,0.046
+65844,KONOSUBA - God's blessing on this wonderful world!,tv,8.545,8.533,-0.012
+86031,Dr. STONE,tv,8.543,8.538,-0.005
+83121,Kaguya-sama: Love Is War,tv,8.5,8.523,0.023
+73488,Les Contes de la rue Broca,tv,8.543,8.547,0.004
+240411,Dan Da Dan,tv,8.54,8.536,-0.004
+32118,Generator Rex,tv,8.5,8.504,0.004
+37606,The Amazing World of Gumball,tv,8.536,8.548,0.012
+83880,Our Planet,tv,8.535,8.526,-0.009
+61222,BoJack Horseman,tv,8.532,8.563,0.031
+31910,Naruto Shippūden,tv,8.532,8.585,0.053
+94796,Crash Landing on You,tv,8.5,8.51,0.01
+88040,given,tv,8.531,8.517,-0.014
+210733,Hidden Love,tv,8.5,8.536,0.036
+83100,Dororo,tv,8.526,8.519,-0.007
+9160,Candy Candy,tv,8.526,8.531,0.005
+28136,Rurouni Kenshin,tv,8.521,8.577,0.056
+126485,Moving,tv,8.52,8.523,0.003
+117376,Vincenzo,tv,8.518,8.513,-0.005
+114410,Chainsaw Man,tv,8.519,8.527,0.008
+82739,Rascal Does Not Dream of Bunny Girl Senpai,tv,8.518,8.522,0.004
+126506,Smiling Friends,tv,8.5,8.541,0.041
+90447,Hotel Del Luna,tv,8.5,8.494,-0.006
+30981,Monster,tv,8.513,8.544,0.031
+67389,Golden Time,tv,8.513,8.521,0.008
+3793,Invader ZIM,tv,8.5,8.517,0.017
+76121,DARLING in the FRANXX,tv,8.5,8.515,0.015
+68129,Yuri!!! on Ice,tv,8.511,8.507,-0.004
+120089,SPY x FAMILY,tv,8.508,8.565,0.057
+88803,Vinland Saga,tv,8.5,8.51,0.01
+83639,Girl from Nowhere,tv,8.5,8.502,0.002
+66433,Scarlet Heart: Ryeo,tv,8.508,8.49,-0.018
+127529,Bloodhounds,tv,8.507,8.519,0.012
+110070,Horimiya,tv,8.507,8.542,0.035
+75214,Violet Evergarden,tv,8.5,8.519,0.019
+19885,Sherlock,tv,8.507,8.58,0.073
+6357,The Twilight Zone,tv,8.508,8.531,0.023
+77721,Real Girl,tv,8.506,8.497,-0.009
+58474,Cosmos,tv,8.506,8.557,0.051
+35935,Berserk,tv,8.505,8.548,0.043
+11466,Kaamelott,tv,8.5,8.55,0.05
+259909,Dexter: Resurrection,tv,8.511,8.672,0.161
+108261,Mr. Queen,tv,8.504,8.499,-0.005
+45950,High School DxD,tv,8.503,8.534,0.031
+125910,Young Royals,tv,8.5,8.508,0.008
+96462,It's Okay to Not Be Okay,tv,8.502,8.516,0.014
+89901,Dickinson,tv,8.501,8.509,0.008
+229480,No Gain No Love,tv,8.5,8.53,0.03
+68349,Weightlifting Fairy Kim Bok-joo,tv,8.5,8.489,-0.011
+73223,Black Clover,tv,8.497,8.537,0.04
+67075,Mob Psycho 100,tv,8.497,8.508,0.011
+225180,BLUE EYE SAMURAI,tv,8.5,8.522,0.022
+56568,NANA,tv,8.5,8.527,0.027
+108291,Snowdrop,tv,8.5,8.52,0.02
+42444,Saint Seiya,tv,8.492,8.529,0.037
+40143,Shaman King,tv,8.5,8.507,0.007
+30991,Cowboy Bebop,tv,8.489,8.544,0.055
+197067,Extraordinary Attorney Woo,tv,8.488,8.552,0.064
+106600,BTS In the SOOP,tv,8.488,8.501,0.013
+221851,Marry My Husband,tv,8.486,8.506,0.02
+1600,Ned's Declassified School Survival Guide,tv,8.485,8.562,0.077
+117648,Clarkson's Farm,tv,8.481,8.493,0.012
+100049,TONIKAWA: Over the Moon for You,tv,8.481,8.502,0.021
+92468,La Familia del Barrio,tv,8.5,8.523,0.023
+79818,Meteor Garden,tv,8.478,8.488,0.01
+333,Jewel in the Palace,tv,8.477,8.508,0.031
+105248,Cyberpunk: Edgerunners,tv,8.474,8.507,0.033
+204154,Scavengers Reign,tv,8.472,8.521,0.049
+154825,Business Proposal,tv,8.5,8.502,0.002
+154521,The Kardashians,tv,8.472,8.525,0.053
+215072,A Shop for Killers,tv,8.469,8.574,0.105
+96160,My Holo Love,tv,8.471,8.507,0.036
+79732,She-Ra and the Princesses of Power,tv,8.471,8.503,0.032
+136283,The Glory,tv,8.47,8.502,0.032
+30669,Yu Yu Hakusho,tv,8.5,8.53,0.03
+83095,The Rising of the Shield Hero,tv,8.467,8.501,0.034
+4194,Star Wars: The Clone Wars,tv,8.5,8.539,0.039
+2004,Malcolm in the Middle,tv,8.466,8.559,0.093
+42509,Steins;Gate,tv,8.5,8.525,0.025
+129888,Twenty Five Twenty One,tv,8.5,8.527,0.027
+65249,ERASED,tv,8.5,8.505,0.005
+65648,Maid Sama!,tv,8.5,8.482,-0.018
+218539,My Demon,tv,8.46,8.485,0.025
+75006,The Umbrella Academy,tv,8.459,8.554,0.095
+228878,Common Side Effects,tv,8.454,8.68,0.226
+64196,Overlord,tv,8.458,8.521,0.063
+68267,Trollhunters: Tales of Arcadia,tv,8.454,8.496,0.042
+207468,Kaiju No. 8,tv,8.451,8.519,0.068
+66330,W: Two Worlds Apart,tv,8.447,8.478,0.031
+62565,My Love Story!!,tv,8.446,8.489,0.043
+35894,Zatch Bell!,tv,8.446,8.492,0.046
+34524,Teen Wolf,tv,8.444,8.52,0.076
+37585,Kenichi: The Mightiest Disciple,tv,8.447,8.509,0.062
+61752,Hellsing Ultimate,tv,8.441,8.479,0.038
+93019,ORESUKI Are you the only one who loves me?,tv,8.436,8.491,0.055
+107124,Animaniacs,tv,8.434,8.514,0.08
+62273,Food Wars! Shokugeki no Soma,tv,8.434,8.474,0.04
+82684,That Time I Got Reincarnated as a Slime,tv,8.433,8.519,0.086
+303351,Blood Sacrifice,tv,5.933,6.957,1.024
+287238,Furious,tv,7.1,7.228,0.128
+272938,Pull Strings,tv,8.5,8.0,-0.5
+298610,Spooky in Love,tv,8.837,8.552,-0.285
+287620,Stuart Fails to Save the Universe,tv,9.029,7.565,-1.464
+286709,The Westies,tv,7.333,6.932,-0.401
+103516,Star Trek: Strange New Worlds,tv,7.899,7.908,0.009
+296756,President Curtis,tv,5.8,6.659,0.859
+194583,The Walking Dead: Dead City,tv,7.896,7.88,-0.016
+312523,S&X,tv,7.333,7.37,0.037
+283297,Sterling Point,tv,8.1,7.571,-0.529
+298168,The Shards,tv,7.8,7.306,-0.494
+243360,Ludwig,tv,7.786,7.434,-0.352
+280133,Cang Feng,tv,8.0,7.864,-0.136
+271016,Mystic Nine,tv,6.8,7.786,0.986
+2710,It's Always Sunny in Philadelphia,tv,8.263,8.049,-0.214
+106449,A Record of a Mortal's Journey to Immortality,tv,8.4,7.941,-0.459
+294095,A Bona Fide Killer,tv,6.5,7.667,1.167
+276470,OK! Let's Get Divorced,tv,7.0,7.989,0.989
+387,SpongeBob SquarePants,tv,7.7,7.829,0.129
+228421,Average Joe,tv,7.0,6.528,-0.472
+220102,Spider-Noir,tv,8.361,7.962,-0.399
+331650,Umthetho,tv,5.0,6.824,1.824
+213703,Agent from Above,tv,7.422,7.939,0.517
+202555,Daredevil: Born Again,tv,8.162,8.136,-0.026
+300727,The Apartment Job,tv,8.7,7.711,-0.989
+201834,ted,tv,7.932,7.668,-0.264
+287496,The Road to Splendor,tv,7.0,7.419,0.419
+278043,You and I Are Polar Opposites,tv,8.659,8.61,-0.049
+220074,Flex X Cop,tv,7.804,7.893,0.089
+95480,Slow Horses,tv,8.0,7.993,-0.007
+309798,My Brilliant Career,tv,4.6,6.095,1.495
+69346,Saga of Tanya the Evil,tv,8.223,8.049,-0.174
+270476,Widow's Bay,tv,8.067,7.644,-0.423
+312949,Chainsmoker Cat,tv,8.573,8.638,0.065
+223564,"The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",tv,8.284,8.215,-0.069
+291350,Anna Pigeon,tv,7.0,6.841,-0.159
+296206,Agent Kim Reactivated,tv,8.373,8.5,0.127
+123542,LINK CLICK,tv,8.2,7.915,-0.285
+84773,The Lord of the Rings: The Rings of Power,tv,7.226,7.719,0.493
+258348,Clevatess,tv,7.969,7.986,0.017
+213375,VisionQuest,tv,0.0,0.0,0.0
+322428,Moria,tv,9.5,7.993,-1.507
+223911,Renegade Immortal,tv,8.2,7.479,-0.721
+85552,Euphoria,tv,8.277,8.324,0.047
+120911,The Terminal List,tv,7.948,7.844,-0.104
+47663,The Ark,tv,6.388,6.944,0.556
+250008,"Oh Boy, Was I Wrong About Her",tv,8.0,8.006,0.006
+153217,Sparks of Tomorrow,tv,8.4,7.739,-0.661
+136315,The Bear,tv,8.1,8.018,-0.082
+203744,Sugar,tv,7.148,7.49,0.342
+329987,9/11: Reunited,tv,8.0,7.889,-0.111
+323411,The Vampire Lestat,tv,6.4,6.685,0.285
+236235,The Gentlemen,tv,7.816,7.844,0.028
+91768,Ascendance of a Bookworm,tv,8.1,8.013,-0.087
+260463,Daemons of the Shadow Realm,tv,8.659,8.59,-0.069
+300480,Ricky Gervais Alley Cats,tv,7.675,7.326,-0.349
+331946,A Beautiful Obsession,tv,8.7,7.875,-0.825
+241882,Ride or Die,tv,6.6,6.845,0.245
+302658,Founder: Orhan,tv,8.0,7.71,-0.29
+285250,The Trembling of Cicada,tv,8.0,8.128,0.128
+125928,My Adventures with Superman,tv,8.129,7.703,-0.426
+277439,Cape Fear,tv,7.185,7.401,0.216
+301412,Dream to You,tv,9.3,8.555,-0.745
+207333,One Hundred Years of Solitude,tv,7.981,7.9,-0.081
+247522,Tires,tv,6.7,7.374,0.674
+323557,Lion,tv,9.0,7.769,-1.231
+218038,Vivant,tv,7.315,7.621,0.306
+114461,Ahsoka,tv,7.405,7.657,0.252
+296286,Smoking Behind the Supermarket with You,tv,8.9,8.396,-0.504
+219971,The Agency,tv,7.201,7.496,0.295
+111834,Stillwater,tv,7.6,7.087,-0.513
+125909,Batman: Caped Crusader,tv,7.3,7.355,0.055
+289324,Star Wars: Visions Presents - The Ninth Jedi,tv,7.5,7.627,0.127
+285993,BLACK TORCH,tv,8.6,8.552,-0.048
+106379,Fallout,tv,8.114,8.041,-0.073
+299158,LOVEx3,tv,9.0,7.519,-1.481
+295410,Emergency 53,tv,10.0,8.614,-1.386
+301418,The Affair Was Just The Beginning,tv,8.8,7.784,-1.016
+107371,A Will Eternal,tv,8.9,7.802,-1.098
+111110,ONE PIECE,tv,8.109,7.917,-0.192
+321564,Star Wars: The Mandalorian and Grogu | A Special Look,tv,8.2,7.745,-0.455
+243206,Pritam and Pedro,tv,8.4,7.396,-1.004
+279323,The East Palace,tv,8.235,7.921,-0.314
+229192,The Demon Hunter,tv,9.2,8.097,-1.103
+196322,Dark Matter,tv,7.766,7.673,-0.093
+288971,Jaadugar: A Witch in Mongolia,tv,8.0,8.124,0.124
+296140,"My Bias, My Boss",tv,7.4,7.828,0.428
+284753,Operation Safed Sagar: The Untold Story of the Kargil War,tv,6.2,6.956,0.756
+286345,Though I Am an Inept Villainess,tv,8.5,7.612,-0.888
+317331,Suspicious Neighbor,tv,8.0,8.31,0.31
+326901,Take a Hike!,tv,0.0,0.0,0.0
+270603,The Exiled Heavy Knight Knows How to Game the System,tv,8.588,8.457,-0.131
+305379,Badly in Love,tv,7.7,7.75,0.05
+56570,Outlander,tv,8.202,8.106,-0.096
+295434,Kamen Rider ZEZTZ,tv,8.1,8.069,-0.031
+236534,Tales of Herding Gods,tv,7.781,7.916,0.135
+247718,MobLand,tv,8.351,8.192,-0.159
+280049,HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing,tv,7.313,7.739,0.426
+131040,Call Me By Fire,tv,8.0,7.994,-0.006
+8840,Fightland,tv,4.7,6.039,1.339
+297826,Tomb Raider King,tv,8.333,8.327,-0.006
+93405,Squid Game,tv,7.855,8.057,0.202
+282136,Ever Night,tv,8.0,7.868,-0.132
+290856,Marshals,tv,7.937,7.742,-0.195
+91801,Welcome to Demon School! Iruma-kun,tv,8.257,8.149,-0.108
+226749,The Librarians: The Next Chapter,tv,6.6,6.742,0.142
+253941,The Paper,tv,7.09,6.997,-0.093
+213562,Crystal Lake,tv,0.0,0.0,0.0
+253391,Sheriff Country,tv,7.351,7.286,-0.065
+323579,GATE24: The Border,tv,5.0,7.066,2.066
+295778,Scrubs,tv,7.795,7.446,-0.349
+289116,Genius Girlfriend,tv,8.4,8.158,-0.242
+224377,Harry Potter,tv,0.0,0.0,0.0
+224372,A Knight of the Seven Kingdoms,tv,8.421,8.33,-0.091
+2808,Totally Spies!,tv,7.337,7.681,0.344
+299939,Monster: The Lizzie Borden Story,tv,0.0,0.0,0.0
+110492,Peacemaker,tv,8.184,7.951,-0.233
+312849,Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School,tv,9.0,8.214,-0.786
+228429,Soul Land 2: The Peerless Tang Clan,tv,7.967,7.937,-0.03
+296202,Wow The World,tv,8.833,8.34,-0.493
+278178,I Will Find You,tv,8.2,7.955,-0.245
+225171,Pluribus,tv,7.9,8.018,0.118
+226698,Conan O'Brien Must Go,tv,7.7,7.363,-0.337
+126660,Professor T,tv,7.315,7.091,-0.224
+199001,My Life with the Walter Boys,tv,7.812,7.825,0.013
+331312,Kiss or Kill,tv,0.0,0.0,0.0
+103540,Percy Jackson and the Olympians,tv,7.3,7.936,0.636
+91239,Bridgerton,tv,8.1,7.958,-0.142
+280564,False Memory,tv,7.0,7.708,0.708
+303287,GuAn,tv,10.0,8.74,-1.26
+295999,MAO,tv,9.0,7.83,-1.17
+63726,Alone,tv,7.2,7.125,-0.075
+326788,Cyberpunk: Edgerunners 2,tv,0.0,0.0,0.0
+79481,Fights Break Sphere,tv,7.9,7.879,-0.021
+96677,Lupin,tv,7.682,7.854,0.172
+203614,Colin from Accounts,tv,7.5,6.7,-0.8
+156988,The Undeclared War,tv,6.1,6.804,0.704
+218642,My Senior Brother is Too Steady,tv,8.8,8.235,-0.565
+255358,THE GHOST IN THE SHELL,tv,8.419,8.015,-0.404
+309974,Love Unseen Beneath the Clear Night Sky,tv,7.667,7.791,0.124

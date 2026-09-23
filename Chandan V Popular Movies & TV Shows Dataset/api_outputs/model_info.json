@@ -1,0 +1,13 @@
+{
+  "features": [
+    "media_type",
+    "original_language",
+    "search_category",
+    "release_year",
+    "vote_count",
+    "popularity"
+  ],
+  "mae": 0.45030000000000003,
+  "r2": 0.8879,
+  "rows": 988
+}

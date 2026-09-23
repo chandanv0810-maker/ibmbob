@@ -1,0 +1,11 @@
+{
+  "inputs": {
+    "media_type": "movie",
+    "original_language": "en",
+    "popularity": 125,
+    "release_year": 2025,
+    "search_category": "popular",
+    "vote_count": 1500
+  },
+  "predicted_rating": 6.627
+}
